@@ -27,7 +27,7 @@ Unlike standard RAG pipelines that search blindly across the whole document, thi
 ## 📺 Demo Video
 
 📌 *YouTube Link:*
-▶️ [*(paste your link here)*](https://youtu.be/zT2QTyO-Ezw)
+▶️ [*(demo_video)*](https://youtu.be/zT2QTyO-Ezw)
 
 ---
 
@@ -46,6 +46,7 @@ rag-manual/
 ├── chat_ui.py                  ← Streamlit UI
 │
 ├── requirements.txt
+|--- screenshot
 ```
 
 
@@ -147,10 +148,15 @@ Generation can be much faster with GPU models.
 ## 🖼 Screenshots 
 
 ```
-/assets/streamlit.png
-/assets/logs.png
-/assets/context.png
+/screenshots/Screenshot 2025-11-22 150319.png
+/screenshots/Screenshot 2025-11-22 150445.png
+/ascreenshots/Screenshot 2025-11-22 150547.png
 ```
+![Application UI 1](screenshots/Screenshot%202025-11-22%20150319.png)
+![Application UI 2](screenshots/Screenshot%202025-11-22%20150334.png)
+![Application UI 3](screenshots/Screenshot%202025-11-22%20150445.png)
+![Application UI 4](screenshots/Screenshot%202025-11-22%20150547.png)
+
 
 ---
 
